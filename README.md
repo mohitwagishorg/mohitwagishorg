@@ -1,7 +1,7 @@
 # 💫 About Me:
 👨‍💻 Web Developer | Problem Solver | Lifelong Learner
 
-I'm [Your Name], a passionate web developer dedicated to writing clean, maintainable, and efficient code. I enjoy solving real-world problems through technology and continuously improving my skills.
+I'm Mohit Wagish, a passionate web developer dedicated to writing clean, maintainable, and efficient code. I enjoy solving real-world problems through technology and continuously improving my skills.
 
 What I Bring to the Table:
 ✔️ Frontend: HTML, CSS, JavaScript, React
