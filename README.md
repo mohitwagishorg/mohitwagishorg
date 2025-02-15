@@ -1,5 +1,20 @@
 # 💫 About Me:
-job
+👨‍💻 Web Developer | Problem Solver | Lifelong Learner
+
+I'm [Your Name], a passionate web developer dedicated to writing clean, maintainable, and efficient code. I enjoy solving real-world problems through technology and continuously improving my skills.
+
+What I Bring to the Table:
+✔️ Frontend: HTML, CSS, JavaScript, React
+✔️ Backend: Node.js, Express, APIs
+✔️ Tools & Version Control: Git, GitHub, VS Code
+✔️ Mindset: Growth-oriented, team player, and detail-driven
+
+What I'm Working On:
+🚀 Building real-world projects to solidify my skills
+📚 Learning advanced web technologies to stay ahead
+🤝 Open to collaborations and new opportunities
+
+Let's connect and build something great together! 💡✨
 
 
 # 💻 Tech Stack:
